@@ -1,6 +1,6 @@
 The Anditi Point Tool is a specialised QGIS plugin designed to streamline the integration of spatial data with external data with external evidentiary documentation, such as photographs, PDF reports, and Word documents. It provides a ‘Smart Interaction’ environment where users can simultaneously digitise new spatial features and manage a complex hierarchy of attachments.
 
-The plugin consists of three primary workflows accessible via the Anditi Point Tool (the Anditi logo) located in the toolbar. Clicking on it activates the tool, allowing you to left click on any existing point/polygon and view its documents. Alternatively, you can also right click on any existing feature and an option to delete it will appear. Here is a more robust list of functions:
+The plugin consists of workflows accessible via the Anditi Point Tool (the Anditi logo) located in the toolbar. Clicking on it activates the tool, allowing you to left click on any existing point/polygon and view its documents. Alternatively, you can also right click on any existing feature and an option to delete it will appear. Here is a more robust list of functions:
 
 •	Create Features: Left click on an empty space to digitise a new point (or polygon). 
 
